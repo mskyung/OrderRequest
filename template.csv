@@ -1,2 +1,6 @@
-﻿물품명,수량,단가,금액
-노트북,1,"900,000","900,000"
+Product_Name,Number,Unit_Price,Sum
+Notebook PC,1,900000,900000
+Keyboard ,1,50000,50000
+Monitor,1,300000,300000
+Mouse,1,10000,10000
+Total,,,1260000
